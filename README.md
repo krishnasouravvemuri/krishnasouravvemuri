@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sri Venkata Krishna Sourav V</h1>
 <h3 align="center">A Passionate B.Tech student from Vellore Institute of Technology , Amaravati Branch</h3>
+https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-sourav&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-sourav" /> </p>
 
