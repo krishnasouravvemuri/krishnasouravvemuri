@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sri Venkata Krishna Sourav V</h1>
 <h3 align="center">A Passionate B.Tech student from Vellore Institute of Technology , Amaravati Branch</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=krishna-sourav&show_icons=true&theme=radical" alt="Your GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=krishnasouravvemuri&show_icons=true&theme=radical" alt="Your GitHub Stats">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnasouravvemuri&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-sourav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnasouravvemuri&label=Profile%20views&color=0e75b6&style=flat" alt="krishnasouravvemuri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-sourav" alt="krishna-sourav" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnasouravvemuri" alt="krishnasouravvemuri" /></a> </p>
 
 - 🌱 I’m currently learning **Devops , Javascript , Jquery , Node-JS , Angular-JS , React-JS , Django**
 
