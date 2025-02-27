@@ -18,8 +18,8 @@
 <a href="https://linkedin.com/in/vemuri krishna sourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vemuri krishna sourav" height="30" width="40" /></a>
 </p>
 
-# My Contribution Graph 📊
-![Contribution Graph](https://github.com/krishnasouravvemuri/krishnasouravvemuri/blob/main/image.png)
+![about_me](https://github.com/user-attachments/assets/a04c692c-eb89-4926-ae89-0bd8c363171e)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
