@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnasouravvemuri" alt="krishnasouravvemuri" /></a> </p>
 
-- 🌱 I’m currently learning **Devops , Javascript , Jquery , Node-JS , Angular-JS , React-JS , Django**
+- 🌱 I’m currently learning **SQL , Node-JS , Angular-JS , React-JS , Django**
 
 - 💬 Ask me about **Python Programming , Java Programming , AWS , HTML , CSS**
 
